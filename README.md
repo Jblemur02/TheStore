@@ -1,2 +1,2 @@
 # TheStore
- This is going to be my attempt to make a shop like ebay
+This will be an ebay clone with messaging and purchasing methods. 
